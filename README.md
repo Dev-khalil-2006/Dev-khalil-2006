@@ -42,7 +42,7 @@ Currently
 Background
 Diploma in Anesthesia and Resuscitation, Al-Rafidah Islamic College (2026)
 24 courses completed in the ProgrammingAdvices programming track
-English: B1 (intermediate) · Arabic: native
+English: B2 (Upper intermediate) · Arabic: native
 <hr>
 Get in Touch
 
