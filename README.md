@@ -1,7 +1,7 @@
-README · MD
+README v2 · MD
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=700&lines=Khalil+Ali+Abu+Hashish;Junior+Backend+Developer;C%23+%7C+.NET+%7C+ASP.NET+Core;Building+real+backend+systems" alt="Typing SVG" /> <img src="https://img.shields.io/badge/Amman-Jordan-orange?style=flat&logo=googlemaps&logoColor=white" alt="Location" /> <img src="https://img.shields.io/badge/Status-Open%20to%20Junior%20Roles-success?style=flat" alt="Status" /> <br>
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:khalilgit2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/khalil-git-377299446"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div> <hr>
 About Me
@@ -10,7 +10,7 @@ I am a junior backend developer focused on C#, .NET, and ASP.NET Core. I care ab
 
 Building backend applications with C# and .NET
 Working with SQL Server and relational database design
-Learning ASP.NET Core through hands-on projects
+Learning ASP.NET Core through hands-on practice
 Growing toward full-stack development with Angular
 Looking for a junior .NET / backend role in Jordan or remote
 <hr>
@@ -26,18 +26,18 @@ public class Developer
     public Dictionary<string, string[]> Stack = new()
     {
         ["Languages"]   = new[] { "C#", "C++", "T-SQL" },
-        ["Frameworks"]  = new[] { ".NET", "ASP.NET Core", "Angular (learning)" },
+        ["Frameworks"]  = new[] { ".NET", "ASP.NET Core", "Angular (planned)" },
         ["Databases"]   = new[] { "SQL Server" },
         ["Tools"]       = new[] { "Git", "GitHub", "Windows PowerShell" },
-        ["Principles"]  = new[] { "OOP", "Data Structures", "Algorithms", "Clean Architecture (learning)" }
+        ["Principles"]  = new[] { "OOP", "Data Structures", "Algorithms" }
     };
 }
 <hr>
 Currently
-📚 Building my first end-to-end ASP.NET Core project (Web API + SQL Server)
+📚 Strengthening ASP.NET Core through hands-on backend practice
 🧠 Studying data structures and algorithms in C#
-🎨 Learning graphic design from zero, alongside programming
-🥊 Training boxing and staying consistent with fitness
+🔀 Using Git and GitHub for version control in every project
+🌐 Preparing for full-stack development with Angular
 <hr>
 Background
 Diploma in Anesthesia and Resuscitation, Al-Rafidah Islamic College (2026)
@@ -50,8 +50,8 @@ Looking for a junior backend or .NET role. If you are hiring, or want to talk ab
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:khalilgit2006@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/khalil-git-377299446"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" /> </div>
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-khalil-2006&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-khalil-2006&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" /> </div>
